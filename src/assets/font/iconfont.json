@@ -1,0 +1,51 @@
+{
+  "id": "2512239",
+  "name": "京东",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "20018900",
+      "name": "home",
+      "font_class": "-home",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "12725937",
+      "name": "my",
+      "font_class": "-my",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "3692669",
+      "name": "cart",
+      "font_class": "-cart",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "7284910",
+      "name": "position",
+      "font_class": "-position",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "14485321",
+      "name": "notice",
+      "font_class": "-notice",
+      "unicode": "e649",
+      "unicode_decimal": 58953
+    },
+    {
+      "icon_id": "19544047",
+      "name": "order",
+      "font_class": "-order",
+      "unicode": "e619",
+      "unicode_decimal": 58905
+    }
+  ]
+}
